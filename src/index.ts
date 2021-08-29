@@ -1,2 +1,2 @@
-import lodash from "lodash"
-console.log(lodash)
+import * as path from "path"
+console.log(path.join(__dirname, "index.js"))
