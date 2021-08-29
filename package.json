@@ -1,0 +1,38 @@
+{
+  "name": "packemon",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "./lib/node/index.js",
+  "module": "./esm/index.js",
+  "browser": "./lib/browser/index.js",
+  "files": [
+    "cjs/**/*.{cjs,map}",
+    "esm/**/*.{js,map}",
+    "lib/**/*.{js,map}",
+    "mjs/**/*.{mjs,map}",
+    "src/**/*.{ts,tsx,json}"
+  ],
+  "scripts": {
+    "build": "packemon build"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.15.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.172",
+    "packemon": "^1.4.1"
+  },
+  "packemon": {
+    "format": [
+      "lib",
+      "cjs",
+      "mjs",
+      "esm"
+    ],
+    "platform": [
+      "browser",
+      "node"
+    ]
+  }
+}

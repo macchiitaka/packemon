@@ -1,0 +1,6 @@
+# プロジェクトの除外パス
+/cjs/
+/esm/
+/lib/
+/mjs/
+/node_modules/
