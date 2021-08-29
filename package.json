@@ -13,13 +13,20 @@
     "src/**/*.{ts,tsx,json}"
   ],
   "scripts": {
+    "fmt": "run-s fmt:prettier fmt:package-json",
+    "fmt:prettier": "prettier --write --tab-width 2 '**/*.{js,jsx,ts,tsx,json,md,yml}'",
+    "fmt:package-json": "sort-package-json",
     "build": "packemon build"
   },
   "dependencies": {
     "@babel/runtime": "^7.15.3"
   },
   "devDependencies": {
-    "packemon": "^1.4.1"
+    "@takamachi/prettier-config": "^1.1.0",
+    "npm-run-all": "^4.1.5",
+    "packemon": "^1.4.1",
+    "prettier": "^2.3.2",
+    "sort-package-json": "^1.50.0"
   },
   "packemon": {
     "format": [
