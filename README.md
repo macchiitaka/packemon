@@ -8,11 +8,11 @@
     - Platform: Node.js
     - Format: CommonJS
 - esm
-    - Platform: Browser
-    - Format: ESM
+  - Platform: Browser
+  - Format: ESM
 - cjs
-    - Platform: Node.js
-    - Format: CommonJS 
+  - Platform: Node.js
+  - Format: CommonJS
 - mjs
-    - Platform: Node.js
-    - Format: ESM 
+  - Platform: Node.js
+  - Format: ESM
