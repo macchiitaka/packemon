@@ -1133,7 +1133,7 @@
     "@microsoft/tsdoc-config" "~0.15.2"
     "@rushstack/node-core-library" "3.43.2"
 
-"@microsoft/api-extractor@^7.18.17":
+"@microsoft/api-extractor@^7.18.19":
   version "7.18.19"
   resolved "https://registry.yarnpkg.com/@microsoft/api-extractor/-/api-extractor-7.18.19.tgz#f09afc1c210aa67e2f3f34b0a68281a12f144541"
   integrity sha512-aY+/XR7PtQXtnqNPFRs3/+iVRlQJpo6uLTjO2g7PqmnMywl3GBU3bCgAlV/khZtAQbIs6Le57XxmSE6rOqbcfg==
@@ -2639,10 +2639,10 @@ p-try@^2.0.0:
   resolved "https://registry.yarnpkg.com/p-try/-/p-try-2.2.0.tgz#cb2868540e313d61de58fafbe35ce9004d5540e6"
   integrity sha512-R4nPAVTAU0B9D35/Gk3uJf/7XYbQcyohSKdvAxIRSNghFl4e71hVoGnBNQz9cWaXxO2I10KTC+3jMdvvoKw6dQ==
 
-packemon@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/packemon/-/packemon-1.7.0.tgz#fb7d50c5d947c2f5b95a3f78a8aa3083e0731938"
-  integrity sha512-d57KEnNRwJ/HknpixiIrJa38j+UqEG9B7nBdn6TudFmGfDXhRBgGs9B1+jugw5I64fpG5lMyU+ofAixLdDzImw==
+packemon@^1.7.1:
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/packemon/-/packemon-1.7.1.tgz#2d5a174d87f5575343fd0d427c1b0b497e44db50"
+  integrity sha512-AXsgs0J73zSyvkj5m8uI1sayDphrwsxWBaNVLSFzP3xjMK31m3G27Ml/HxovU13z4i3jpAD2OwqXxWRmEIg9jg==
   dependencies:
     "@babel/core" "^7.16.0"
     "@babel/plugin-proposal-decorators" "^7.16.0"
@@ -2657,7 +2657,7 @@ packemon@^1.7.0:
     "@boost/event" "^2.3.3"
     "@boost/pipeline" "^2.2.8"
     "@boost/terminal" "^2.2.3"
-    "@microsoft/api-extractor" "^7.18.17"
+    "@microsoft/api-extractor" "^7.18.19"
     "@rollup/plugin-babel" "^5.3.0"
     "@rollup/plugin-commonjs" "^21.0.1"
     "@rollup/plugin-json" "^4.1.0"
@@ -2676,10 +2676,10 @@ packemon@^1.7.0:
     ink-spinner "^4.0.3"
     micromatch "^4.0.4"
     npm-packlist "^3.0.0"
-    react "^16.14.0"
+    react "^17.0.2"
     resolve "^1.20.0"
     rimraf "^3.0.2"
-    rollup "^2.59.0"
+    rollup "^2.60.0"
     rollup-plugin-node-externals "^2.2.0"
     rollup-plugin-polyfill-node "^0.7.0"
     rollup-plugin-visualizer "^5.5.2"
@@ -2773,7 +2773,7 @@ pretty-ms@^7.0.1:
   dependencies:
     parse-ms "^2.1.0"
 
-prop-types@^15.6.2, prop-types@^15.7.2:
+prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
@@ -2822,14 +2822,13 @@ react-reconciler@^0.26.2:
     object-assign "^4.1.1"
     scheduler "^0.20.2"
 
-react@^16.14.0:
-  version "16.14.0"
-  resolved "https://registry.yarnpkg.com/react/-/react-16.14.0.tgz#94d776ddd0aaa37da3eda8fc5b6b18a4c9a3114d"
-  integrity sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==
+react@^17.0.2:
+  version "17.0.2"
+  resolved "https://registry.yarnpkg.com/react/-/react-17.0.2.tgz#d0b5cc516d29eb3eee383f75b62864cfb6800037"
+  integrity sha512-gnhPt75i/dq/z3/6q/0asP78D0u592D5L1pd7M8P+dck6Fu/jJeL6iVVK23fptSUZj8Vjf++7wXA8UNclGQcbA==
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
-    prop-types "^15.6.2"
 
 read-pkg@^3.0.0:
   version "3.0.0"
@@ -2960,10 +2959,10 @@ rollup-plugin-visualizer@^5.5.2:
     source-map "^0.7.3"
     yargs "^16.2.0"
 
-rollup@^2.59.0:
-  version "2.59.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.59.0.tgz#108c61b0fa0a37ebc8d1f164f281622056f0db59"
-  integrity sha512-l7s90JQhCQ6JyZjKgo7Lq1dKh2RxatOM+Jr6a9F7WbS9WgKbocyUSeLmZl8evAse7y96Ae98L2k1cBOwWD8nHw==
+rollup@^2.60.0:
+  version "2.60.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.60.0.tgz#4ee60ab7bdd0356763f87d7099f413e5460fc193"
+  integrity sha512-cHdv9GWd58v58rdseC8e8XIaPUo8a9cgZpnCMMDGZFDZKEODOiPPEQFXLriWr/TjXzhPPmG5bkAztPsOARIcGQ==
   optionalDependencies:
     fsevents "~2.3.2"
 
