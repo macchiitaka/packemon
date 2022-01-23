@@ -2658,7 +2658,7 @@ p-try@^2.0.0:
   resolved "https://registry.yarnpkg.com/p-try/-/p-try-2.2.0.tgz#cb2868540e313d61de58fafbe35ce9004d5540e6"
   integrity sha512-R4nPAVTAU0B9D35/Gk3uJf/7XYbQcyohSKdvAxIRSNghFl4e71hVoGnBNQz9cWaXxO2I10KTC+3jMdvvoKw6dQ==
 
-packemon@^1.10.0:
+packemon@^1.11.0:
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/packemon/-/packemon-1.11.0.tgz#d67a689cdcd0080291716f1b4854596c93d19504"
   integrity sha512-TTCMgOphuLuRjfGAftpW9qj74Qfu4Su7a9gu1TGdDGx1/TEXRUP9sdKidH5o2xM3gNo4jEUUUzW6ULnAigestA==
