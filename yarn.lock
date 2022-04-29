@@ -2580,10 +2580,10 @@ p-locate@^5.0.0:
   dependencies:
     p-limit "^3.0.2"
 
-packemon@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/packemon/-/packemon-2.2.0.tgz#9a30d035941da25f9edcf29c1167b2c0faa8eac2"
-  integrity sha512-q7NJNI2o4D3mKTM24HXS8+YoOKodr8Q8Pqhdggc19W6pxSzFEI0pVdJaLngNhHjh3ZJqQMzvnKV55ti0kCoQ5g==
+packemon@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/packemon/-/packemon-2.2.1.tgz#a2409e3d4a2b8f170d77f617714d5a73b55ccc07"
+  integrity sha512-qAb7w15NtYKvPYXqruF5KcE0Zh+psXN7ZKbZbNoloFQ3rroYQri7XsEFLOvA1hQkPPSKyxeAQA9plFs0XRT4gQ==
   dependencies:
     "@babel/core" "^7.17.9"
     "@babel/plugin-proposal-decorators" "^7.17.9"
