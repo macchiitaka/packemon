@@ -2707,7 +2707,7 @@ p-is-promise@^2.1.0:
   resolved "https://registry.yarnpkg.com/p-is-promise/-/p-is-promise-2.1.0.tgz#918cebaea248a62cf7ffab8e3bca8c5f882fc42e"
   integrity sha512-Y3W0wlRPK8ZMRbNq97l4M5otioeA5lm1z7bkNkxCka8HSPjR0xRWmpCmc9utiaLP9Jb1eD8BgeIxTW4AIF45Pg==
 
-packemon@^3.1.1:
+packemon@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/packemon/-/packemon-3.2.0.tgz#b17d2ae942da75e59640e08635bbbf2b67a81155"
   integrity sha512-lCKndAqtFhh+6tNDN0Je09ydhQsJ7cvgywvq9YT3U9CjcC+ZfZ0Az97DFNAlid/6WhPGOHcZ5JBN7sIrouTMeg==
