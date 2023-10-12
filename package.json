@@ -19,7 +19,7 @@
     "build": "packemon build"
   },
   "dependencies": {
-    "@babel/runtime": "^7.23.1"
+    "@babel/runtime": "^7.23.2"
   },
   "devDependencies": {
     "@takamachi/prettier-config": "^1.1.0",
