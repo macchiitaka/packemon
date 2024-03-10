@@ -2377,10 +2377,10 @@ os-locale@^6.0.2:
   dependencies:
     lcid "^3.1.1"
 
-packemon@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/packemon/-/packemon-4.0.0.tgz#19e0a0f65275b8331c01355e117552ea601e7cf8"
-  integrity sha512-QHGfmBcPpwQut69qAgNe786rQbEMLg2HoKfabdc1Rdak5Ks8IEnxdPKhXRizDkWvgXraekHfScyhKAhX21HDPw==
+packemon@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/packemon/-/packemon-4.0.1.tgz#5a6f061a85e125af0a5dcc2407ac765db54069d1"
+  integrity sha512-R/RHEO6duguSxGMG2JjUkAEF9MiwSc0gV3FGLwet0HJPvMQzYesnfk9lYTktj7godZZho7dMaSxCKEMeTMJc3w==
   dependencies:
     "@babel/core" "^7.24.0"
     "@babel/plugin-external-helpers" "^7.23.3"
