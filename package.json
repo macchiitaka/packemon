@@ -26,7 +26,7 @@
     "npm-run-all2": "^6.2.6",
     "packemon": "^4.1.1",
     "prettier": "^3.3.3",
-    "sort-package-json": "^2.12.0"
+    "sort-package-json": "^2.15.0"
   },
   "packemon": {
     "format": [
